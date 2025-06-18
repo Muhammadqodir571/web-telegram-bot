@@ -4,7 +4,7 @@ export function getData() {
 			title: 'JavaScript',
 			price: 17.99,
 			Image:
-				'https://sammi.ac/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F3gf746AKRbWNjB8OCoEB&w=3840&q=75',
+				'https://dan-it.com.ua/wp-content/uploads/2024/11/javascript.png',
 			id: 1,
 		},
 		{
